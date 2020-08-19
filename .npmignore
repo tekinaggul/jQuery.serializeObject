@@ -1,0 +1,25 @@
+# IDE & OS specific
+.DS_Store
+.idea
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+dist
+test
+.bowerrc
+.gitignore
+.gitmodules
+.jshintrc
+.travis.yml
+bower.json
+Gruntfile.js
+jquery.serializeObject.d.ts
+jquery.serializeObject.js
+LICENSE.txt
+README.markdown
+serializeObject.jquery.json
