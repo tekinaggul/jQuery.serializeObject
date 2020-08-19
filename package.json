@@ -1,5 +1,5 @@
 {
-  "name": "@aggul/jQuery.serializeObject",
+  "name": "@aggul/jquery.serializeobject",
   "version": "2.0.4",
   "description": "A jQuery plugin to turn form data into JSON",
   "main": "jquery.serializeObject.js",
@@ -25,12 +25,14 @@
   ],
   "author": "David G. Hong",
   "license": "MIT",
-  "gitHead": "7789084425b353624fc95487024459f364d11df6",
-  "readmeFilename": "README.markdown",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-uglify": "~0.2.0",
     "grunt-contrib-jshint": "~0.4.3",
     "grunt-contrib-qunit": "~0.2.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hongymagic/jQuery.serializeObject/issues"
+  },
+  "homepage": "https://github.com/hongymagic/jQuery.serializeObject#readme"
 }
